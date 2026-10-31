@@ -28,7 +28,7 @@ The dataset contains malaria incidence observations across approximately 107 cou
 
 ## Data Source
 
-**Original source:** []
+**Original source:** [(https://www.who.int/data/gho/data/indicators/indicator-details/GHO/malaria-incidence-%28per-1-000-population-at-risk%29?utm_source=chatgpt.com)]
 
 Please refer to the original source for the official documentation, measurement units, and redistribution conditions.
 
