@@ -272,7 +272,7 @@ Open the notebook using an environment that supports Jupyter notebooks with an R
 ├── README.md
 ├── install_packages.R
 ├── notebooks/
-│   └── malaria_time_series_arima.ipynb
+│   └── malaria_time_series.ipynb
 ├── data/
 │   └── README.md
 └── figures/
